@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+
+ <script src="script.js"></script>
+  
+<h1 class='title uppercase'id='article-title'>All about ginny</h1>
+  <p>Ginny is my little dog I owned for a year and a half and she is a small cute dog.</p>
+ <h2 class='description' id='beginning'>How I got her</h2>
+  <p>I was on my way home from school then I saw my mom with a dog. I started running to her and she told me, "This is our new dog, Ginny" I screamed and jumped up and down, played and slept with her the whole time.</a>
+  <h2 class='description' id='Information'>
+ Information
+  </h2>
+<ul>
+  <li>08/06/2021</li>
+  <li>4.3 kg</li>
+  <li>1 year, 9 months, 14 days</li>
+  <li>Girl</li>
+  <li>Cavapoo</li>
+</ul>
+  <h2 class='description' id='favorite'>Her favorites</h2>
+<ol>
+  <li>Snack: Sweet Potato flavored</li>
+  <li>Person: Dad</li>
+  <li>Toy:Teddy Bear</li>
+  </ol>
+  
+  
+     <image src="https://www.bing.com/images/search?view=detailV2&ccid=BABgYmjX&id=4593E557938A71D1E049F8759EC347BC3497920C&thid=OIP.BABgYmjXgKjXNySNG9m9FgHaJH&mediaurl=https%3a%2f%2fcdn.fotofits.com%2fpetzlover%2fgallery%2fimg%2fl%2fcavapoo-885020.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0400606268d780a8d737248d1bd9bd16%3frik%3dDJKXNLxHw551%252bA%26pid%3dImgRaw%26r%3d0&exph=1500&expw=1218&q=cavapoo&simid=607986620216137304&FORM=IRPRST&ck=CD0930E6EA744D119EBF66A4FDADB63C&selectedIndex=4&ajaxhist=0&ajaxserp=0" style="width: 500px;" />
+       <image src="https://th.bing.com/th/id/OIP.FmHtMsdH1FNblA8aAA8o8wHaHm?pid=ImgDet&w=1242&h=1275&rs=1" style="width:400px;"/>
+
+</body>
+
+</html>
