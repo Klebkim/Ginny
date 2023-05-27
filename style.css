@@ -28,6 +28,7 @@ body{
   
   #article-title {
     font-family: 'Courier New', Courier, monospace;
+    color: #ffce88;
   }
   
   
@@ -57,6 +58,4 @@ body{
     color:#134f5c;
   }
   
-  p{
-    color:white
-  }
+ 
